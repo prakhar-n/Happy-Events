@@ -1,0 +1,20 @@
+Subject: Welcome to HappyEvents.
+
+Dear {{Host_Name}}
+
+Welcome to HappyEvents!
+
+We are thrilled to have you join our community of event organizers. Your account has been successfully created, and you are now part of a dynamic platform where you can manage and host events seamlessly.
+
+Here’s what you can do as an Event Host:
+
+Create Events: Add new events with all the necessary details such as event date, name, location, and timings.
+Upload Event Pamphlets: Easily upload pamphlets and other documents related to your events directly to our Azure Blob Storage.
+Manage Participants: View the list of participants registered for your events, and stay updated with their information.
+
+If you have any questions or need assistance, our support team is here to help. Feel free to reach out to us at abc@123.com
+
+Thank you for choosing Us. We look forward to seeing your amazing events!
+
+Best Regards,
+HappyEvents Team

@@ -1,0 +1,10 @@
+Subject: Alert for registration!
+
+Dear {{Event_Host}},
+
+User: {{Client_Name}} has just signed up for your event.
+
+Total participants right now is: {{Event_Participants}}.
+
+Best Regards,
+HappyEvents Team

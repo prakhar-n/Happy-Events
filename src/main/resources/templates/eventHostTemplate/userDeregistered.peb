@@ -1,0 +1,10 @@
+Subject: Alert for De-registration!
+
+Dear {{Event_Host}},
+
+User: {{Client_Name}} just de-registered themselves from your event.
+
+Total participants right now is: {{Event_Participants}}.
+
+Best Regards,
+HappyEvents Team

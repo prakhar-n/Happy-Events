@@ -6,7 +6,9 @@ This repository contains a web application for event management developed using 
 
 Features
 
-JWT Authentication: Secure authentication using JSON Web Tokens. Event Management: Event Hosts can create, update, and delete events. Participant Management: Users can register and deregister for events. Email Notifications: Event Hosts receive notifications when they create an event or when a user registers/deregisters for their event. Users receive notifications when they register/deregister for an event.
+JWT Authentication: Secure authentication using JSON Web Tokens. Event Management: Event Hosts can create, update, and delete events. 
+Participant Management: Users can register and deregister for events. 
+Email Notifications: Event Hosts receive notifications when they create an event or when a user registers/deregisters for their event. Users receive notifications when they register/deregister for an event.
 
 Entities
 
